@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "再現.leaper",
+  "base_artist": "奏",
+  "createdAt": "2026-03-03T06:01:28.789384Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "再現.leaper (feat. 星尘Infinity)",
+      "artist": "奏",
+      "has_synced": false,
+      "path": "select/pl_01_再現.leaper_(feat._星尘Infinity)_奏.txt"
+    }
+  ]
+}
